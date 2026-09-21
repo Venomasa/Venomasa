@@ -10,18 +10,17 @@ Python  •  TypeScript  •  JavaScript  •  Electron  •  PostgreSQL  •  P
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venomasa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Venomasa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomasa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Venomasa)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Venomasa&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF)](https://github.com/Venomasa)
-
----
-
 </div>
 
-### Overview
+### Featured Projects
 
-Software engineer specializing in desktop application development, system integrations, and business management software. Focused on crafting robust standalone utilities, automating administrative workflows, and engineering scalable database solutions. Experienced in architecting cross-platform desktop interfaces and enterprise ERP/HR systems.
+| Project | Highlights & Capabilities | Tech Stack |
+| :--- | :--- | :--- |
+| **[BiometricExcelExporter](https://github.com/Venomasa/BiometricExcelExporter)** | Standalone desktop application for ZKTeco hardware attendance extraction, automated local subnet discovery, and multi-sheet Arabic RTL Excel report generation with work hours calculation. | `Python` `PyQt6` `openpyxl` `pyzk` |
+| **Falcon Suite** | Comprehensive business software suite including Falcon HR System, Cost Management, and ERP systems. | `TypeScript` `JavaScript` `PostgreSQL` `PL/pgSQL` |
+| **[windows-spotlight-saver](https://github.com/Venomasa/windows-spotlight-saver)** | Automated utility for extracting, organizing, and managing Windows Spotlight and desktop wallpapers. | `Python` `Windows API` |
+| **[WallpaperStudio](https://github.com/Venomasa/WallpaperStudio)** | Modern desktop wallpaper manager with automated fetch and collection management. | `Electron` `JavaScript` `Node.js` |
+| **[League-of-Customs](https://github.com/Venomasa/League-of-Customs)** | Hextech companion application and team randomizer utility. | `HTML5` `CSS3` `JavaScript` |
 
 ---
 
@@ -48,20 +47,13 @@ Software engineer specializing in desktop application development, system integr
 
 ---
 
-### Featured Projects
+### GitHub Activity & Statistics
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[BiometricExcelExporter](https://github.com/Venomasa/BiometricExcelExporter)** | Standalone desktop application for ZKTeco attendance logging, multi-threaded network discovery, and formatted RTL Excel report generation. | Python, PyQt, openpyxl, pyzk |
-| **Falcon Suite** | Enterprise software suite including Falcon HR System, Cost Management, and ERP architectures. | TypeScript, JavaScript, PostgreSQL, PL/pgSQL |
-| **[windows-spotlight-saver](https://github.com/Venomasa/windows-spotlight-saver)** | Automated utility for extracting, organizing, and managing Windows Spotlight and desktop wallpapers. | Python |
-| **[WallpaperStudio](https://github.com/Venomasa/WallpaperStudio)** | Modern desktop wallpaper manager with automated fetch and collection management. | Electron, JavaScript |
-| **[League-of-Customs](https://github.com/Venomasa/League-of-Customs)** | Hextech companion application and team randomizer utility. | HTML, JavaScript |
+<div align="center">
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venomasa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Venomasa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomasa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Venomasa)
 
-### Engineering Focus
+[![GitHub Streak](https://streak-stats.demolab.com?user=Venomasa&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF)](https://github.com/Venomasa)
 
-- **Desktop Applications**: Building performant standalone tools with native look-and-feel, offline-first reliability, and clean packaging.
-- **Enterprise Integrations**: Designing robust backend schemas, reporting engines, and hardware protocol communication layers.
-- **Automation & Tooling**: Automating repetitive system tasks, building CI/CD pipelines, and streamlining data exports.
+</div>
