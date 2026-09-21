@@ -2,11 +2,21 @@
 
 # Venomasa
 
-**Software Engineer | Desktop Applications, Enterprise Systems & System Automation**
+**Software Engineer | Desktop Applications & System Automation**
 
-```
-Python  •  TypeScript  •  JavaScript  •  Electron  •  PostgreSQL  •  PyQt
-```
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -17,33 +27,8 @@ Python  •  TypeScript  •  JavaScript  •  Electron  •  PostgreSQL  •  P
 | Project | Highlights & Capabilities | Tech Stack |
 | :--- | :--- | :--- |
 | **[BiometricExcelExporter](https://github.com/Venomasa/BiometricExcelExporter)** | Standalone desktop application for ZKTeco hardware attendance extraction, automated local subnet discovery, and multi-sheet Arabic RTL Excel report generation with work hours calculation. | `Python` `PyQt6` `openpyxl` `pyzk` |
-| **Falcon Suite** | Comprehensive business software suite including Falcon HR System, Cost Management, and ERP systems. | `TypeScript` `JavaScript` `PostgreSQL` `PL/pgSQL` |
-| **[windows-spotlight-saver](https://github.com/Venomasa/windows-spotlight-saver)** | Automated utility for extracting, organizing, and managing Windows Spotlight and desktop wallpapers. | `Python` `Windows API` |
 | **[WallpaperStudio](https://github.com/Venomasa/WallpaperStudio)** | Modern desktop wallpaper manager with automated fetch and collection management. | `Electron` `JavaScript` `Node.js` |
 | **[League-of-Customs](https://github.com/Venomasa/League-of-Customs)** | Hextech companion application and team randomizer utility. | `HTML5` `CSS3` `JavaScript` |
-
----
-
-### Technical Skills
-
-#### Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### Frameworks & Libraries
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-#### Tooling & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
